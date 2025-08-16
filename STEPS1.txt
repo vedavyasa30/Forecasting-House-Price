@@ -1,0 +1,3 @@
+cd C:\Users\veda vyasa\Desktop\HYDPR1 - copy
+npm install
+npm run dev
