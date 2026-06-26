@@ -60,8 +60,6 @@ pip install -r requirements.txt
 
 uvicorn app:app --reload
 
-➡ Open http://127.0.0.1:8000 to see API docs.
-
 2️⃣ Frontend (React + Tailwind + Vite)
 
 cd frontend
@@ -69,8 +67,6 @@ cd frontend
 npm install
 
 npm run dev
-
-➡ App runs at http://localhost:5173
 
 📊 Model Training
 
